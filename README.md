@@ -1,2 +1,3 @@
-# UXLab
-@mutirao de usabilidade pras redes.
+# Edital de Redes
+
+Repositório pra organizar informações e entregas referentes ao projeto.
